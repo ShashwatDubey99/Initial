@@ -128,5 +128,5 @@ sd-1/lora/Ink scenery:
    recommended: False
 sd-1/main/MajicMix: 
    path: https://civitai.com/api/download/models/94640
-   recommended: False
+   recommended: True
 
