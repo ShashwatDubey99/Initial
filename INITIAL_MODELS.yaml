@@ -73,7 +73,7 @@ sd-1/main/waifu-diffusion:
    repo_id: hakurei/waifu-diffusion
    recommended: False
 sd-1/controlnet/canny:
-   repo_id: lllyasviel/control_v11p_sd15_canny
+   path: https://civitai.com/api/download/models/10971
    recommended: True
 sd-1/controlnet/inpaint:
    repo_id: lllyasviel/control_v11p_sd15_inpaint
@@ -82,7 +82,7 @@ sd-1/controlnet/mlsd:
    repo_id: lllyasviel/control_v11p_sd15_mlsd
    recommended: False
 sd-1/controlnet/depth:
-   repo_id: lllyasviel/control_v11f1p_sd15_depth
+   path: https://civitai.com/api/download/models/63006
    recommended: True
 sd-1/controlnet/normal_bae:
    repo_id: lllyasviel/control_v11p_sd15_normalbae
